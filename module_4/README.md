@@ -38,7 +38,7 @@ _Est. Time to Complete: 5 mins_
 
 In SQL, the `SELECT` and `FROM` statements are fundamental for retrieving data from a database. The `SELECT` statement specifies the columns you want to retrieve, while the `FROM` statement indicates the table where the data is stored. For example, `SELECT name, age FROM users;` retrieves the "name" and "age" columns from the "users" table. These commands allow users to filter and view specific data, making them essential for data querying and analysis in SQL.
 
-- [ ] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=jGa997jsmCZBWjog&t=1484) video and mark when complete
+- [X] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=jGa997jsmCZBWjog&t=1484) video and mark when complete
 
 ----
 
@@ -72,7 +72,7 @@ _Estimated time to complete: 1.5 hours_
 
 _Estimated time to complete: 2 hours_
 
-- [ ] Pick [a SQL resource](https://github.com/KelseyATaylor/Data-Tech-Moms-Resources?tab=readme-ov-file#sql) to do 2 hours of hands SQL practice 
+- [X] Pick [a SQL resource](https://github.com/KelseyATaylor/Data-Tech-Moms-Resources?tab=readme-ov-file#sql) to do 2 hours of hands SQL practice 
 
 Additional resources: 
 
