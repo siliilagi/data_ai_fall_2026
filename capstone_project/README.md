@@ -21,13 +21,13 @@ Types of projects:
 
 * Financial Analysis - Bookkeeping 
 
-  - [ ]  **Project Execution:**  
+  - [x]  **Project Execution:**  
    Once the business or non-profit agrees, students will collect the relevant data and begin their analysis. This phase should take approximately two weeks, during which students will apply the skills learned in the course, including data cleaning, analysis, and visualization.
 
-- [ ]  **Presentation:**  
+- [x]  **Presentation:**  
    After completing the analysis, students will set up a call with the business or non-profit to present their findings. The presentation should include a clear explanation of the analysis performed, key insights, and any visualizations created (such as dashboards or charts).
 
-- [ ]  **Feedback and Refinement:**  
+- [x]  **Feedback and Refinement:**  
    Following the presentation, students will gather feedback from the organization. If any adjustments or refinements are needed, students will have a short period to make these changes and deliver the final product.
 
 ## Project Goals
@@ -59,24 +59,24 @@ Best regards,
 
 ### Week 1 
 
-- [ ] Confirm your project 
-- [ ] Data in hand and start analysis
-- [ ] Get to know your data (create a data dictionary if needed)
-- [ ] Clean the data
-- [ ] Do exploratory analysis - ask questions of the data 
+- [x] Confirm your project 
+- [x] Data in hand and start analysis
+- [x] Get to know your data (create a data dictionary if needed)
+- [x] Clean the data
+- [x] Do exploratory analysis - ask questions of the data 
 
 ### Week 2
 
-- [ ] Create v1 of Dashboard / Report / Presentation 
-- [ ] Ask for feedback from Data Mentor/Teachers 
-- [ ] Ship v1 of project to client to get feedback 
+- [x] Create v1 of Dashboard / Report / Presentation 
+- [x] Ask for feedback from Data Mentor/Teachers 
+- [x] Ship v1 of project to client to get feedback 
 
 ### Week 3  
 
-- [ ] Incorporate Feedback 
-- [ ] Create v2 of project  
-- [ ] Ask for feedback from Data Mentor/Teachers
-- [ ] Ship v2 of project to client 
+- [x] Incorporate Feedback 
+- [x] Create v2 of project  
+- [x] Ask for feedback from Data Mentor/Teachers
+- [x] Ship v2 of project to client 
 
 ### Week 4 
 
